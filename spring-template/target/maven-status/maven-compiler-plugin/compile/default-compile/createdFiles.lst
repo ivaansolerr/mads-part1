@@ -1,7 +1,10 @@
 demoapp/controller/SaludoController.class
+demoapp/service/ParService.class
 demoapp/controller/UserData.class
 demoapp/controller/SaludoControllerForm.class
+demoapp/controller/ParController.class
 demoapp/controller/HomeController.class
 demoapp/Application.class
 demoapp/service/SaludoService.class
 demoapp/controller/SaludoControllerPlantilla.class
+demoapp/controller/NumeroData.class
