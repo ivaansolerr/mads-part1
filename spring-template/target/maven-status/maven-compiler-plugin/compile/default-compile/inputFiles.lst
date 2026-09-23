@@ -1,7 +1,7 @@
-/home/ivans/Desktop/mads/mads-part1/test-clone/src/main/java/demoapp/Application.java
-/home/ivans/Desktop/mads/mads-part1/test-clone/src/main/java/demoapp/controller/UserData.java
-/home/ivans/Desktop/mads/mads-part1/test-clone/src/main/java/demoapp/controller/HomeController.java
-/home/ivans/Desktop/mads/mads-part1/test-clone/src/main/java/demoapp/service/SaludoService.java
-/home/ivans/Desktop/mads/mads-part1/test-clone/src/main/java/demoapp/controller/SaludoControllerPlantilla.java
-/home/ivans/Desktop/mads/mads-part1/test-clone/src/main/java/demoapp/controller/SaludoController.java
-/home/ivans/Desktop/mads/mads-part1/test-clone/src/main/java/demoapp/controller/SaludoControllerForm.java
+/home/ivans/Desktop/mads/mads-part1/spring-template/src/main/java/demoapp/controller/HomeController.java
+/home/ivans/Desktop/mads/mads-part1/spring-template/src/main/java/demoapp/service/SaludoService.java
+/home/ivans/Desktop/mads/mads-part1/spring-template/src/main/java/demoapp/Application.java
+/home/ivans/Desktop/mads/mads-part1/spring-template/src/main/java/demoapp/controller/UserData.java
+/home/ivans/Desktop/mads/mads-part1/spring-template/src/main/java/demoapp/controller/SaludoControllerForm.java
+/home/ivans/Desktop/mads/mads-part1/spring-template/src/main/java/demoapp/controller/SaludoController.java
+/home/ivans/Desktop/mads/mads-part1/spring-template/src/main/java/demoapp/controller/SaludoControllerPlantilla.java
